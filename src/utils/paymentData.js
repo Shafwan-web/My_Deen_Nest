@@ -1,0 +1,68 @@
+const paymentData = [
+  {
+    receiptNo: 447,
+    student: "Jacob Jones",
+    amount: 40000,
+    method: "Checks",
+    category: "Monthly Fee",
+    date: "8 Sep, 2020",
+    collectedBy: "Jacob Jones",
+  },
+  {
+    receiptNo: 877,
+    student: "Courtney Henry",
+    amount: 2000,
+    method: "Credit cards",
+    category: "Tuition Fee",
+    date: "22 Oct, 2020",
+    collectedBy: "Courtney Henry",
+  },
+  {
+    receiptNo: 994,
+    student: "Marvin McKinney",
+    amount: 40000,
+    method: "UPI",
+    category: "Tuition + Transport",
+    date: "24 May, 2020",
+    collectedBy: "Marvin McKinney",
+  },
+  {
+    receiptNo: 154,
+    student: "Leslie Alexander",
+    amount: 40000,
+    method: "Debit cards",
+    category: "Extra",
+    date: "24 May, 2020",
+    collectedBy: "Leslie Alexander",
+  },
+  {
+    receiptNo: 536,
+    student: "Ralph Edwards",
+    amount: 40000,
+    method: "Checks",
+    category: "Tuition Fee",
+    date: "24 May, 2020",
+    collectedBy: "Ralph Edwards",
+  },
+  {
+    receiptNo: 196,
+    student: "Theresa Webb",
+    amount: 40000,
+    method: "Cash",
+    category: "Tuition Fee",
+    date: "24 May, 2020",
+    collectedBy: "Theresa Webb",
+  },
+  {
+    receiptNo: 600,
+    student: "Guy Hawkins",
+    amount: 1000,
+    method: "Bank Transfer",
+    category: "Tuition Fee",
+    date: "24 May, 2020",
+    collectedBy: "Guy Hawkins",
+  },
+];
+
+export default paymentData;
+  
