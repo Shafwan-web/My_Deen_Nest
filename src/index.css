@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.font-primary {
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.bg-primary {
+  background-color: #126f77;
+}
